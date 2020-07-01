@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ParseInstallation.getCurrentInstallation().saveInBackground();
 
+
         edtEmailId.findViewById( R.id.edtEmailId );
         edtSignUpUserName.findViewById( R.id.edtSignUpUserName );
         edtSignUpPassWord.findViewById( R.id.edtSignUpPassWord );
@@ -27,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
         btnLogin.findViewById( R.id.btnLogin );
 
         
+
     }
 }
