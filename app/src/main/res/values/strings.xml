@@ -5,4 +5,5 @@
     <!-- Change the following strings as required -->
     <string name="back4app_app_id">lW0uhRkZqGuXoTIIMnNrS7MhAeVbSHteQraWyy0W</string>
     <string name="back4app_client_key">tt3zr9GY0zLaAGvfSbv9vGtGVBuFoDNxO4MGVvNy</string>
+    <string name="logout">logout</string>
 </resources>
